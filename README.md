@@ -5,7 +5,7 @@
  * 💻 Desenvolvedor FullStack
  * 📝 Atualmente estudo Desenvolvimento Web na Trybe 🚀.
 ---
-🚀 ## Hard Skills:
+🚀 Hard Skills:
 
 <div style="display: inline_block">
   <img align="center" alt="yjapa-Js" height="30" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
