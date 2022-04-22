@@ -5,7 +5,7 @@
  * 💻 Desenvolvedor FullStack
  * 📝 Atualmente estudo Desenvolvimento Web na Trybe 🚀.
 ---
-🚀 Hard Skills:
+🚀 ##Hard Skills:
 
 <div style="display: inline_block">
   <img align="center" alt="yjapa-Js" height="30" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -26,7 +26,7 @@
   <img align="center" alt="yjapa-Sequelize" height="30" width="105" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"><br>
   
   ---
-  🏆 Soft Skills: <br>
+  🏆 ##Soft Skills: <br>
   
   * Comunicação
   * Colaboração
@@ -35,7 +35,7 @@
   * Liderança
   
   ---
-  📝 Contatos 
+  📝 ##Contatos:
  
   <div> 
   <a href = "mailto:wesleyy_@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
