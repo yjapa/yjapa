@@ -26,15 +26,6 @@
   <img align="center" alt="yjapa-Sequelize" height="30" width="105" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"><br>
   
   ---
-  🏆 Soft Skills: <br>
-  
-  * Comunicação
-  * Colaboração
-  * Pensamento Crítico
-  * Criatividade 
-  * Liderança
-  
-  ---
   📝 Contatos:
  
   <div> 
