@@ -3,7 +3,7 @@
  Me chamo Wesley, tenho 24 anos e moro em São Paulo Capital. Sou Tecnólogo em Mecânica de Precisão pela FATEC - SP e Técnico em Mecatrônica pela ETEC Getúlio Vargas. Sou uma pessoa muito curiosa e que gosta de aprender sobre tudo. Como desenvolvedor de Software meu maior prazer é resolver problemas da melhor maneira possível! 🎉
  
  * 💻 Desenvolvedor FullStack
- * 📝 Atualmente estudo Desenvolvimento Web na Trybe 🚀.
+
 ---
 🚀 Hard Skills:
 
